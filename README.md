@@ -18,7 +18,7 @@
     <tbody>
       <tr>
           <td align="center">
-             <a href="https://github.com/Dev-AbdulHannan" style="text-decoration:none;">
+             <a href="https://github.com/Dev-AbdulHannan" style="text-decoration: none">
                <img src="https://avatars.githubusercontent.com/u/88274981?v=4" width="100px;" alt="Abdul Hannan"/>
                     <br />
                     <sub><b>Abdul Hannan</b></sub>
