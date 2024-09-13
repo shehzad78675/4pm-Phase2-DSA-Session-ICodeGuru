@@ -184,3 +184,46 @@
     </tr>
 </tbody>
 <table>
+
+# Week 04
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Leetcode: 112. Path Sum</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/419910101121710">Tutorial</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/">112. Path Sum</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><b>Leetcode: 113. Path Sum II</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1445974509402107">Tutorial</td>
+    <td align="center" ><a href="https://leetcode.com/problems/path-sum-ii/description/">113. Path Sum II</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Leetcode: 106. Construct Binary Tree from Inorder and Postorder Traversal</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1697475927731429">Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/">106. Construct Binary Tree from Inorder and Postorder Traversal</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Leetcode: 109. Convert Sorted List to Binary Search Tree, 108. Convert Sorted Array to Binary Search Tree</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/403395095794518"> Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/">109. Convert Sorted List to Binary Search Tree </a> <br> <a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/"> 108. Convert Sorted Array to Binary Search Tree</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Leetcode: Binary Tree Level Order Traversal, 1008. Construct Binary Search Tree from Preorder Traversal</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/543818591658606"> Tutorial </a></td>
+        <td align="center" ><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/description/"> Binary Tree Level Order Traversal </a> <br> <a href="https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/"> 1008. Construct Binary Search Tree from Preorder Traversal</a></td>
+    </tr>
+</tbody>
+<table>
