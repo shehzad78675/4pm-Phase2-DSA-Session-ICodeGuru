@@ -130,7 +130,7 @@
     <tr>
        <td align="center"><b>04</b></td>
        <td align="center"><b>Leetcode: 101. Symmetric Tree</b></td>
-       <td align="center"><a href="https://leetcode.com/problems/symmetric-tree/description/"> Tutorial</a> </td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2594281400764020"> Tutorial</a> </td>
       <td align="center" ><a href="https://leetcode.com/problems/symmetric-tree/description/">101. Symmetric Tree</a></td>
     </tr>
     <tr>
