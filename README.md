@@ -135,7 +135,7 @@
     </tr>
     <tr>
        <td align="center"><b>05</b></td>
-       <td align="center"><b>Leetcode: 236. Lowest Common Ancestor of a Binary Tree</b> <br> <b> 100. Same Tree</b></td>
+       <td align="center"><b>Leetcode: 236. Lowest Common Ancestor of a Binary Tree, 100. Same Tree</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/4106315939595498"> Tutorial </a></td>
         <td align="center" ><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/"> 236. Lowest Common Ancestor of a Binary Tree </a> <br> <a href="https://leetcode.com/problems/same-tree/description/"> 100. Same Tree</a></td>
     </tr>
