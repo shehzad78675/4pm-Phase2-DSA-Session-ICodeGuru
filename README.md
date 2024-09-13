@@ -141,3 +141,46 @@
     </tr>
 </tbody>
 <table>
+
+# Week 03
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Leetcode: 700. Search in a Binary Search Tree</b></td>
+       <td align="center">Not Recorded</td>
+    <td align="center" ><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/">700. Search in a Binary Search Tree</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><b>Leetcode: 701. Insert into a Binary Search Tree, 96. Unique Binary Search Trees</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/499218962823884">Tutorial</td>
+    <td align="center" ><a href="https://leetcode.com/problems/insert-into-a-binary-search-tree/description/">701. Insert into a Binary Search Tree </a> <br> <a href="https://leetcode.com/problems/unique-binary-search-trees/description/"> 96. Unique Binary Search Trees</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Leetcode: 98. Validate Binary Search Tree</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1173786587219594">Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/validate-binary-search-tree/description/">98. Validate Binary Search Tree</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Leetcode: 897. Increasing Order Search Tree, 450. Delete Node in a BST</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/490459717171575"> Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/increasing-order-search-tree/description/">897. Increasing Order Search Tree</a> <br> <a href="https://leetcode.com/problems/delete-node-in-a-bst/description/"> 450. Delete Node in a BST</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Leetcode: 235. Lowest Common Ancestor of a Binary Search Tree, 173. Binary Search Tree Iterator</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3780641805597117"> Tutorial </a></td>
+        <td align="center" ><a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/"> 235. Lowest Common Ancestor of a Binary Search Tree </a> <br> <a href="https://leetcode.com/problems/binary-search-tree-iterator/description/"> 173. Binary Search Tree Iterator</a></td>
+    </tr>
+</tbody>
+<table>
