@@ -199,7 +199,7 @@
        <td align="center"><b>01</b></td>
        <td align="center"><b>Leetcode: 112. Path Sum</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/419910101121710">Tutorial</a></td>
-    <td align="center" ><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/description/">112. Path Sum</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/path-sum/description/">112. Path Sum</a></td>
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
