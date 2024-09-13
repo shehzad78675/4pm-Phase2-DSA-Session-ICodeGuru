@@ -87,7 +87,7 @@
     <tr>
        <td align="center"><b>04</b></td>
        <td align="center"><b>Leetcode: 145. Binary Tree Postorder Traversal</b></td>
-       <td align="center"><a href="https://fb.watch/sZh2Z8UBYM/"> Tutorial</a> </td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/819349453714000"> Tutorial</a> </td>
       <td align="center" ><a href="https://leetcode.com/problems/binary-tree-postorder-traversal/description/">145. Binary Tree Postorder Traversal</a>, <a href="https://excalidraw.com/#json=x3UGWiq6c0heP2tzRyBt3,Zvb2n8v4q2ZxCqGqZ2f91w">Excalidraw</a></td>
     </tr>
     <tr>
