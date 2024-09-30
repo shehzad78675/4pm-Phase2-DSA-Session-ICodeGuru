@@ -326,9 +326,9 @@
      </tr> 
     <tr>
        <td align="center"><b>01</b></td>
-       <td align="center"><b>Leetcode: soon</b></td>
-       <td align="center"><a href="">Tutorial</a></td>
-        <td align="center" ><a href="">soon</a></td>
+       <td align="center"><b>Leetcode: 23. Merge k Sorted Lists</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1606607549929952">Tutorial</a></td>
+        <td align="center" ><a href="https://leetcode.com/problems/merge-k-sorted-lists/description/">23. Merge k Sorted Lists</a></td>
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
