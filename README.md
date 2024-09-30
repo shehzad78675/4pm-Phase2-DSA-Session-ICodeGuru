@@ -289,15 +289,15 @@
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
-    <td align="center"><b>Adjacency List, BFS</b></td>
+    <td align="center"><b>Adjacency List, BFS of Graph</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1585363925656801">Tutorial</td>
-    <td align="center" ><a href="">BFS</a></td  
+    <td align="center" ><a href="https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1">BFS of Graph</a></td  
   </tr>  
   <tr>
        <td align="center"><b>03</b></td>
-       <td align="center"><b>Connrcted Components, DFS</b></td>
+       <td align="center"><b>Connrcted Components, DFS of Graph</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1204090594232997">Tutorial</a> </td>
-      <td align="center" ><a href="">DFS</a></td>
+      <td align="center" ><a href="https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1">DFS of Graph</a></td>
     </tr>
     <tr>
        <td align="center"><b>04</b></td>
