@@ -285,7 +285,7 @@
        <td align="center"><b>01</b></td>
        <td align="center"><b>Introduction of Graph</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1158971225198806">Tutorial</a></td>
-    <td align="center" ><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">703. Kth Largest Element in a Stream</a></td>
+    <td align="center" ><a href="https://excalidraw.com/#json=qLMXEyuvrwcEFNsZHj87d,znfZ2QTpwQNPXEdfj5HSsA">Excalidraw</a>, <a href="https://colab.research.google.com/drive/1j-Aur2e1PFQB9ifEUA9YA0mrAR8o_Sfb?usp=sharing">Notebook</a></td>
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
