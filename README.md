@@ -308,7 +308,7 @@
     <tr>
        <td align="center"><b>05</b></td>
        <td align="center"><b>Leetcode: 994. Rotting Oranges</b></td>
-       <td align="center"><a href=""> Tutorial </a></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1230602624752318"> Tutorial </a></td>
         <td align="center" ><a href="https://leetcode.com/problems/rotting-oranges/description/">994. Rotting Oranges</a></td>
     </tr>
 </tbody>
