@@ -227,3 +227,133 @@
     </tr>
 </tbody>
 <table>
+
+# Week 05
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Leetcode: 703. Kth Largest Element in a Stream</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/419910101121710">Tutorial</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">703. Kth Largest Element in a Stream</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><b>Leetcode: 215. Kth Largest Element in an Array</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/4600067030217738">Tutorial</td>
+    <td align="center" ><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/description/">215. Kth Largest Element in an Array</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Leetcode: 230. Kth Smallest Element in a BST</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1081215517046499">Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/">230. Kth Smallest Element in a BST</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Max Heap Implementation and Its Push Function</b></b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/251357348072801"> Tutorial</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1jQJTiRiNtRydNJpzMKn_UDAk2DvhlsQz?usp=sharing">Notebook</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Max Heap Implementation and Its Pop and Heapify Function</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1621569985063445"> Tutorial </a></td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/1jQJTiRiNtRydNJpzMKn_UDAk2DvhlsQz?usp=sharing">Notebook</a></td>
+    </tr>
+</tbody>
+<table>
+
+# Week 06
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Introduction of Graph</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1158971225198806">Tutorial</a></td>
+    <td align="center" ><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">703. Kth Largest Element in a Stream</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><b>Adjacency List, BFS</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1585363925656801">Tutorial</td>
+    <td align="center" ><a href="">BFS</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Connrcted Components, DFS</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1204090594232997">Tutorial</a> </td>
+      <td align="center" ><a href="">DFS</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Leetcode: 547. Number of Provinces</b></b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1044924913996906"> Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/number-of-provinces/description/">547. Number of Provinces</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Leetcode: 994. Rotting Oranges</b></td>
+       <td align="center"><a href=""> Tutorial </a></td>
+        <td align="center" ><a href="https://leetcode.com/problems/rotting-oranges/description/">994. Rotting Oranges</a></td>
+    </tr>
+</tbody>
+<table>
+
+# Week 07
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topic</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><b>Leetcode: soon</b></td>
+       <td align="center"><a href="">Tutorial</a></td>
+        <td align="center" ><a href="">soon</a></td>
+    </tr>
+      <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><b>Leetcode: soon</b></td>
+    <td align="center"><a href="">Tutorial</td>
+    <td align="center" ><a href="">soon</a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><b>Leetcode: soon</b></td>
+       <td align="center"><a href="">Tutorial</a> </td>
+      <td align="center" ><a href="">soon</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><b>Leetcode: soon</b></b></td>
+       <td align="center"><a href=""> Tutorial</a> </td>
+      <td align="center" ><a href="">soon</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><b>Leetcode: soon</b></td>
+       <td align="center"><a href=""> Tutorial </a></td>
+        <td align="center" ><a href="">soon</a></td>
+    </tr>
+</tbody>
+<table>
+
