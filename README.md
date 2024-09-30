@@ -241,7 +241,7 @@
     <tr>
        <td align="center"><b>01</b></td>
        <td align="center"><b>Leetcode: 703. Kth Largest Element in a Stream</b></td>
-       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/419910101121710">Tutorial</a></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1593625647918035">Tutorial</a></td>
     <td align="center" ><a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/">703. Kth Largest Element in a Stream</a></td>
     </tr>
       <tr>
