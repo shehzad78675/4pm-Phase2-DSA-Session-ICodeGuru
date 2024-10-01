@@ -332,9 +332,9 @@
     </tr>
       <tr>
     <td align="center"><b>02</b></td>
-    <td align="center"><b>Leetcode: soon</b></td>
-    <td align="center"><a href="">Tutorial</td>
-    <td align="center" ><a href="">soon</a></td  
+    <td align="center"><b>Leetcode: 23. Merge k Sorted Lists, 542. 01 Matrix</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/508377618626050">Tutorial</td>
+    <td align="center" ><a href="https://leetcode.com/problems/merge-k-sorted-lists/description/">23. Merge k Sorted Lists</a>, <a href="https://leetcode.com/problems/01-matrix/description/">542. 01 Matrix</a></td  
   </tr>  
   <tr>
        <td align="center"><b>03</b></td>
