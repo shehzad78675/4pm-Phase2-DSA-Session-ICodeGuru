@@ -338,9 +338,9 @@
   </tr>  
   <tr>
        <td align="center"><b>03</b></td>
-       <td align="center"><b>Leetcode: soon</b></td>
-       <td align="center"><a href="">Tutorial</a> </td>
-      <td align="center" ><a href="">soon</a></td>
+       <td align="center"><b>Dijkstra's Algorithm</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/458420347349252">Tutorial</a> </td>
+      <td align="center" >None</td>
     </tr>
     <tr>
        <td align="center"><b>04</b></td>
