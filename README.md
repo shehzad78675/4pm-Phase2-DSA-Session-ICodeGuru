@@ -350,9 +350,9 @@
     </tr>
     <tr>
        <td align="center"><b>05</b></td>
-       <td align="center"><b>Leetcode: soon</b></td>
+       <td align="center"><b>Leetcode: 114. Flatten Binary Tree to Linked List</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/873499701417282"> Tutorial </a></td>
-        <td align="center" ><a href="">soon</a></td>
+        <td align="center" ><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/">114. Flatten Binary Tree to Linked List</a></td>
     </tr>
 </tbody>
 <table>
