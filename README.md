@@ -344,14 +344,14 @@
     </tr>
     <tr>
        <td align="center"><b>04</b></td>
-       <td align="center"><b>Leetcode: soon</b></b></td>
-       <td align="center"><a href=""> Tutorial</a> </td>
-      <td align="center" ><a href="">soon</a></td>
+       <td align="center"><b>Leetcode: 787. Cheapest Flights Within K Stops</b></b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2923351627816051/"> Tutorial</a> </td>
+      <td align="center" ><a href="https://leetcode.com/problems/cheapest-flights-within-k-stops/description/">787. Cheapest Flights Within K Stops</a></td>
     </tr>
     <tr>
        <td align="center"><b>05</b></td>
        <td align="center"><b>Leetcode: soon</b></td>
-       <td align="center"><a href=""> Tutorial </a></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/873499701417282"> Tutorial </a></td>
         <td align="center" ><a href="">soon</a></td>
     </tr>
 </tbody>
